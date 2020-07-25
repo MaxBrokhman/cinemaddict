@@ -1,0 +1,17 @@
+:host {
+  margin-left: auto;
+}
+
+.profile {
+  display: flex;
+  align-items: center;
+}
+
+.profile__rating {
+  font-size: 20px;
+}
+
+.profile__avatar {
+  display: block;
+  margin-left: 15px;
+}
